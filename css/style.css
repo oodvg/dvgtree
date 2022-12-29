@@ -80,7 +80,7 @@ a.credit:link, a.credit:visited {
 }
 
 body {
-  font-family: "Gilmer Sans", sans-serif;
+  font-family: "Poppins", sans-serif;
   min-height: 100vh;
   display: grid;
   place-content: center;
