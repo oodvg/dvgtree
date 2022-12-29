@@ -34,6 +34,18 @@ h1{
   margin: 3rem 2rem;
 }
 
+.count {
+  text-align: center;
+}
+
+.count span{
+  font-size: 1.5  rem;
+}
+
+div.timer>div {
+  width: 220px;
+}
+
 :root {
   --bg-color: #121212;
   --navbar-bg-color: #1d1d1d;
