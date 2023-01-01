@@ -1,4 +1,4 @@
-const dafultDate = "1 jan 2023";
+const dafultDate = "27 mar 2023";
 const daysEl = document.getElementById ("days");
 const hoursEl = document.getElementById ("hours");
 const minEl = document.getElementById ("min");
